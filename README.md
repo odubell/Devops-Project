@@ -1,2 +1,2 @@
 # Devops-Project
-Complete-DevopsCI/CD-Project-1
+Complete-Devops-CI/CD-Project-1
